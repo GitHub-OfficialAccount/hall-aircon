@@ -1,6 +1,6 @@
 # hall-aircon
 
-Automate ntu hall aircon with pure python.
+Automate ntu hall aircon with pure python. This is legal cuz requests are authorized.
 
 The only thing you need to get is your personal authorization token. If you have your own ways to get it, ignore everything below.
 
