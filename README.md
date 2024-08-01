@@ -17,3 +17,6 @@ Steps to get the token:
 How to control:
 1. Simple way: just check auto.py and modify what you want to do.
 2. More: check the requests and explore yourself.
+
+Somehow you can bypass the frontend to set the temperature to 19, but idk if it really feels like 19.
+![image](https://github.com/user-attachments/assets/39d8a1ed-e434-4147-a244-767c5be79132)
