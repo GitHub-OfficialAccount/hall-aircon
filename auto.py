@@ -1,4 +1,4 @@
-import atexit, time, requests, json
+import atexit, time, requests, json, datetime
 
 # remove everything about atexit if you don't want to turn off the AC when the script is closed
 # change time.sleep to your desired interval if you want to
@@ -62,6 +62,8 @@ min_temperature = 25
 max_temperature = 25
 
 while True:
+
+    print(datetime.datetime.now())
 
     try:
 
